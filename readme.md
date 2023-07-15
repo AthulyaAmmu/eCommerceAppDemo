@@ -1,4 +1,4 @@
-#This app is created using Vite and react template
+#This app is created by using Vite and react template
 
 ## Run this project 
 
